@@ -1,0 +1,25 @@
+{
+  "name": "planet-zoo-catalog",
+  "version": "1.0.0",
+  "description": "Easiest way to look up animals for your zoo!",
+  "main": "package.js",
+  "scripts": {
+    "test": "server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeatonJSant/planet-zoo-catalog-node.git"
+  },
+  "keywords": [
+    "zoo",
+    "catalog",
+    "animals"
+  ],
+  "author": "Keaton Sant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KeatonJSant/planet-zoo-catalog-node/issues"
+  },
+  "homepage": "https://github.com/KeatonJSant/planet-zoo-catalog-node#readme"
+}
